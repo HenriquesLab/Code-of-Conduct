@@ -1,8 +1,11 @@
 # Code-of-Conduct
 
-The following document outlines the code of conduct for the [Optical Cell Biology Laboratory](https://henriqueslab.github.io/) also known as HenriquesLab. This code of conduct applies to all members of the laboratory.
+The following document outlines the code of conduct for the [Optical Cell Biology Laboratory](https://henriqueslab.github.io/) also known as HenriquesLab. We value the participation of every member of our group and want to ensure everyone has
+an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the IGC policies for your level of employment or study.
 
-## How to behave with colleagues
+TL;DR: Be nice. Ensure you properly cite and attribute others' work. Be respectful of others' time and effort. Be open to feedback and criticism. Be honest and transparent. Be considerate of others' needs. Be aware of your online presence. Be safe.
+
+## Interaction with colleagues
 
 - **Respectful communication**: Communication in the laboratory should be respectful and professional. Lab members should avoid any behavior that could be perceived as offensive.
 - **Collaborative spirit**: Members of the lab should aim to build a collaborative and supportive environment. They should actively seek opportunities to help and mentor their colleagues and be open to receiving help and feedback from others.
@@ -16,22 +19,40 @@ The following document outlines the code of conduct for the [Optical Cell Biolog
 - **Vacations**: Lab members should follow the guidelines in their contract/fellowship and avoid taking time off during crucial deadlines, especially if their colleagues depend on them.
 - **Flexibility**: In case of personal or professional obligations, members should inform the lab director in advance and make arrangements to ensure continuity of their work.
 
-## Presenting their work
-
-- **Preparation**: Prior to presenting externally work generated in the context of the lab, the presented data should be shared with participating collaborators and reviewed by supervirors at least 5 days prior to presentation in the first instance. Any changes made enseforth should be communicated to supervirors prior to the presentation.
-- **Proper attribution**: When presenting scientific work in public, lab members should give proper attribution to collaborators and sources of funding. If the presented work contains data or figures that were generated or derived by others, lab members should clearly indicate this, through the use of legends, footnotes or other means.
-- **Appropriate use of social media**: Our laboratory fully supports and encorages the use of social media to promote scientific research and to communicate with colleagues and the public. Lab members should be aware that their online presence can have an impact on their professional reputation. They are advised to avoid posting content that could be perceived as offensive or discriminatory.
-
 ## Participation in lab activities
 
 - **Attendance**: Members of the lab should participate in lab meetings, and other relevant activities, unless otherwise agreed with the lab director.
 - **Engagement**: Members should actively engage in discussions and contribute to the lab's intellectual and scientific development.
 - **Preparation**: Members should come to meetings and other activities prepared and ready to discuss the relevant material, this generally includes a presentation of their data via powerpoint or similar means.
 
-## Preparation of agendas for 1-to-1 meetings
+## 1-to-1 meetings
 
 - **Frequency**: Members should meet with their supervisors regularly for one-to-one meetings. The frequency of these meetings should be agreed upon in advance.
-- **Agenda**: Members should prepare a clear agenda for each one-to-one meeting, outlining the topics they wish to discuss and any questions they have for their supervisor. Data should be presented clearly and involve prior organisation of their content into a presentation, such as by powerpoint.
+- **Agenda**: Members should prepare a clear agenda for each one-to-one meeting, outlining the topics they wish to discuss and any questions they have for their supervisor.
+- **Results and experiments**: Data and experimental plans should be presented clearly and involve prior organisation of their content into a presentation, such as by powerpoint.
 - **Follow-up**: After each meeting, members should summarize the key points discussed and any follow-up actions required, and communicate these to their supervisor.
+
+## Presenting scientific research
+
+- **Preparation**: Prior to presenting externally work generated in the context of the lab, the presented data should be shared with participating collaborators and reviewed by supervirors at least 5 days prior to presentation in the first instance. Any changes made enseforth should be communicated to supervirors prior to the presentation.
+- **Proper attribution**: When presenting scientific work in public, lab members should give proper attribution to collaborators and sources of funding. If the presented work contains data or figures that were generated or derived by others, lab members should clearly indicate this, through the use of legends, footnotes or other means.
+- **Appropriate use of social media**: Our laboratory fully supports and encorages the use of social media to promote scientific research and to communicate with colleagues and the public. Lab members should be aware that their online presence can have an impact on their professional reputation. They are advised to avoid posting content that could be perceived as offensive or discriminatory.
+
+## Publishing scientific research (papers, preprints, posters, etc.)
+
+- **Authorship**: Author roles and expectations are discussed early on in the project and ultimately decided by the laboratory director in consultation with other authors. This is often an ongoing conversation throughout the project, as roles and contributions may change over time.
+- **Contribtions**: All authors are expected to contribute significantly to the project. This includes conception, design, development of functionality, data acquisition, analysis and interpretation, and drafting and revising the manuscripts. These contributions are done with prior discussion and agreement of the senior project lead and core development team.
+
+## Intellectual property
+
+- **Management**: The lab director is responsible for overseeing intellectual property generated by the lab in the context of research supported by the laboratory. Lab members should inform the lab director of any intellectual property they generate in the context of their work in the lab.
+- **Confidentiality**: Lab members should not disclose confidential information about the lab or its members without the lab director's prior consent.
+- **Ownership of data**: Lab members are responsible for the data they generate. They should ensure that their data is backed up regularly and that they have access to it at all times. Lab members should not share their data without prior consent of contributing members and the lab director.
+
+## Safety
+
+- **Safety**: Lab members should ensure that they follow all safety guidelines and procedures. They should also ensure that they use the equipment in a safe and responsible manner and that they maintain it in good condition. Lab members should not share their equipment with anyone without the lab director's prior consent.
+- **Safety training**: Lab members should complete all required safety training and ensure that they are familiar with the lab's safety guidelines and procedures.
+
 
 This code of conduct aims to promote a positive and productive working environment, where all members of the laboratory feel valued and respected. By adhering to these guidelines, lab members can contribute to the lab's success and ensure their own professional growth and development.
