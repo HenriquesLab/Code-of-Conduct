@@ -1,7 +1,7 @@
 # Code-of-Conduct
 
 The following document outlines the code of conduct for the [Optical Cell Biology Laboratory](https://henriqueslab.github.io/) also known as HenriquesLab. We value the participation of every member of our group and want to ensure everyone has
-an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the IGC policies for your level of employment or study.
+an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the IGC policies for your level of employment or study.
 
 _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be respectful of others' time and effort. Be open to feedback and criticism. Be honest and transparent. Be considerate of others' needs. Be aware of your online presence. Be safe.
 
