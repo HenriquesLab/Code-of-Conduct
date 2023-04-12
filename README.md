@@ -1,6 +1,6 @@
 # Code-of-Conduct
 
-The following document outlines the code of conduct for the Optical Cell Biology Laboratory lead by Prof. [Ricardo Henriques](https://henriqueslab.github.io/). This code of conduct applies to all members of the laboratory.
+The following document outlines the code of conduct for the [Optical Cell Biology Laboratory](https://henriqueslab.github.io/) also known as HenriquesLab. This code of conduct applies to all members of the laboratory.
 
 ## How to behave with colleagues
 
@@ -18,20 +18,20 @@ The following document outlines the code of conduct for the Optical Cell Biology
 
 ## Presenting their work
 
-- **Preparation**: Prior to presenting externally work generated in the context of the lab, the presented data should be shared with participating collaborators and reviewed by the lab director at least 5 days prior to presentation in the first instance. Any changes made enseforth should be communicated to the lab director prior to the presentation.
+- **Preparation**: Prior to presenting externally work generated in the context of the lab, the presented data should be shared with participating collaborators and reviewed by supervirors at least 5 days prior to presentation in the first instance. Any changes made enseforth should be communicated to supervirors prior to the presentation.
 - **Proper attribution**: When presenting scientific work in public, lab members should give proper attribution to collaborators and sources of funding. If the presented work contains data or figures that were generated or derived by others, lab members should clearly indicate this, through the use of legends, footnotes or other means.
-- **Appropriate use of social media**: Our laboratory fully supports and encorages the use of social media to promote scientific research and to communicate with colleagues and the public. Lab members should be aware that their online presence can have an impact on their professional reputation. They should avoid posting any content that could be perceived as offensive or discriminatory.
+- **Appropriate use of social media**: Our laboratory fully supports and encorages the use of social media to promote scientific research and to communicate with colleagues and the public. Lab members should be aware that their online presence can have an impact on their professional reputation. They are advised to avoid posting content that could be perceived as offensive or discriminatory.
 
 ## Participation in lab activities
 
 - **Attendance**: Members of the lab should participate in lab meetings, and other relevant activities, unless otherwise agreed with the lab director.
 - **Engagement**: Members should actively engage in discussions and contribute to the lab's intellectual and scientific development.
-- **Preparation**: Members should come to meetings and other activities prepared and ready to discuss the relevant material.
+- **Preparation**: Members should come to meetings and other activities prepared and ready to discuss the relevant material, this generally includes a presentation of their data via powerpoint or similar means.
 
 ## Preparation of agendas for 1-to-1 meetings
 
 - **Frequency**: Members should meet with their supervisors regularly for one-to-one meetings. The frequency of these meetings should be agreed upon in advance.
-- **Agenda**: Members should prepare a clear agenda for each one-to-one meeting, outlining the topics they wish to discuss and any questions they have for their supervisor.
+- **Agenda**: Members should prepare a clear agenda for each one-to-one meeting, outlining the topics they wish to discuss and any questions they have for their supervisor. Data should be presented clearly and involve prior organisation of their content into a presentation, such as by powerpoint.
 - **Follow-up**: After each meeting, members should summarize the key points discussed and any follow-up actions required, and communicate these to their supervisor.
 
 This code of conduct aims to promote a positive and productive working environment, where all members of the laboratory feel valued and respected. By adhering to these guidelines, lab members can contribute to the lab's success and ensure their own professional growth and development.
