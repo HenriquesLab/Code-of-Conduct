@@ -44,6 +44,7 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 - **Research**: Lab members should copy their supervisor on e-mails related to their research. This includes e-mails to collaborators, project managers, funding agencies, and other relevant parties.
 - **Format**: Slack or WhatsApp should not be used for formal sharing of data, instead, it should be done preferably via e-mail, or otherwise Microsoft Teams.
 - **Verbal**: As much as possible, oral communications including talks and poster presentations should be trained with colleagues and supervisors before the event.
+- **After working hours**: While communication may be initiated after working hours, lab members should not expect a response before the next working day.
 
 ## Publishing scientific research (papers, preprints, posters, etc.)
 
