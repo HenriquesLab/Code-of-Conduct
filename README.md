@@ -25,6 +25,13 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 - **Engagement**: Members should actively engage in discussions and contribute to the lab's intellectual and scientific development.
 - **Preparation**: Members should come to meetings and other activities prepared and ready to discuss the relevant material, this generally includes a presentation of their data via PowerPoint or similar means.
 
+## Participation in national and international conferences
+
+- **Eligibility**: Priority goes toward lab members presenting their work (recently published or being prepared for publication), being the first author(s) of the work presented. It's disadvised for lab members to attend conferences solely as observers.
+- **Funding**: Lab members should apply for funding to attend conferences. If funding is not available, they should discuss with their supervisor(s) whether the lab can cover the costs.
+- **Preparation**: Lab members should prepare their presentations well in advance and share them with their supervisor(s) for feedback (see "Presenting scientific research" section below). They should also prepare a clear agenda for the conference, outlining the talks they wish to attend.
+- **Follow-up**: After the conference, lab members should summarize the key points presented and any follow-up actions required, and communicate these to their lab colleagues.
+
 ## 1-to-1 meetings
 
 - **Frequency**: Members should meet with their supervisors regularly for one-to-one meetings. The frequency of these meetings should be agreed upon in advance.
@@ -38,6 +45,7 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 - **Preparation**: Prior to presenting to non-lab-members work generated in the context of the lab, the presented data should be shared with participating collaborators and reviewed by supervisors at least 5 days before presentation in the first instance. Any changes made henceforth should be communicated to supervisors before the presentation.
 - **Proper attribution**: When presenting scientific work in public, lab members should give proper attribution to collaborators and sources of funding. If the presented work contains data or figures that were generated or derived by others, lab members should indicate this, through the use of legends, footnotes or other means.
 - **Appropriate use of social media**: Our laboratory fully supports and encourages the use of social media to promote scientific research and to communicate with colleagues and the public. Lab members should be aware that their online presence can have an impact on their professional reputation. They are advised to avoid posting content that could be perceived as offensive or discriminatory. Respect your colleagues in pictures, personal information and all sensible content, as much as possible secure consent before posting such information. Openly accept to remove any content involving colleagues if requested to do so.
+Participation in national and international conferences
 
 ## Communication
 
