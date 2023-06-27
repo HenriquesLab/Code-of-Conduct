@@ -28,7 +28,7 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 ## Participation in national and international conferences
 
 - **Eligibility**: Priority goes toward lab members presenting their work (recently published or being prepared for publication), being the first author(s) of the work presented. It's disadvised for lab members to attend conferences solely as observers.
-- **Funding**: Lab members should apply for funding to attend conferences. If funding is not available, they should discuss with their supervisor(s) whether the lab can cover the costs.
+- **Funding**: Lab members should apply for funding to attend conferences. If funding is not available, they should discuss with their supervisor(s) whether the lab can cover the costs. Decisions are done on a case-by-case basis but are generally more favourable to members presenting their work or junior researchers attending courses or workshops.
 - **Preparation**: Lab members should prepare their presentations well in advance and share them with their supervisor(s) for feedback (see "Presenting scientific research" section below). They should also prepare a clear agenda for the conference, outlining the talks they wish to attend.
 - **Follow-up**: After the conference, lab members should summarize the key points presented and any follow-up actions required, and communicate these to their lab colleagues.
 
