@@ -80,6 +80,13 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 - **Maintenance**: Lab members should ensure that they use the equipment safely and responsibly and that they maintain it in good condition. Lab members should ensure they clean up after use and return equipment to its original location.
 - **Scheduling**: Lab members should ensure that they schedule the use of equipment in advance and that they do not use equipment that is already booked. For lab-specific equipment, an informal schedule can be set via google calendar as long as there is no other channel dedicated to it (e.g., lab book).
 
+
+## 3D printing
+
+- **Personal Use**: 3D printers in the lab are primarily for lab use. While peronal use is allowed, it should be kept to a minimum and should not interfere with lab work. The printers are definitely not to be for large personal projects, including multi-day prints, at least without the lab director's prior consent.
+- **Maintenance**: If you're carrying out a long print, you're responsible for monitoring the print and ensuring that the printer is in good condition and that the print is not causing any damage to the printer. If you're unsure about anything, ask for help.
+**Scheduling**: While there is (currently) no formal scheduling system, it is good practice to inform your colleagues if you plan to use the printer for a long print, so they can plan accordingly.
+
 ## Lab space
 
 - **Cleanliness**: Lab members should ensure that they keep the lab clean and tidy at all times. This includes cleaning up after themselves and ensuring that they do not leave any equipment or materials lying around.
@@ -87,3 +94,4 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 - **Personal items**: Lab members should not leave any personal items mixed with experimental space and prevent contamination. They should also ensure that they do not leave any equipment or materials lying around.
 - **Sharing optics space**: If lab members need to run sensitive experiments in spaces that may be disturbed by other lab members (e.g. optical lab), they should inform all possible users of the space beforehand to avoid conflicts.
 - **Online meetings in shared lab spaces**: Lab members should avoid having online meetings requiring dialogue in spaces shared with other researchers where the noise of the meeting may disturb other researchers. The lab director is happy to share or vacate his office for such meetings.
+
