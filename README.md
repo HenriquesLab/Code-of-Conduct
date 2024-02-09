@@ -83,9 +83,9 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 
 ## 3D printing
 
-- **Personal Use**: 3D printers in the lab are primarily for lab use. While peronal use is allowed, it should be kept to a minimum and should not interfere with lab work. The printers are definitely not to be for large personal projects, including multi-day prints, at least without the lab director's prior consent.
-- **Maintenance**: If you're carrying out a long print, you're responsible for monitoring the print and ensuring that the printer is in good condition and that the print is not causing any damage to the printer. If you're unsure about anything, ask for help.
-**Scheduling**: While there is (currently) no formal scheduling system, it is good practice to inform your colleagues if you plan to use the printer for a long print, so they can plan accordingly.
+- **Personal Use**: 3D printers in the lab are primarily for lab use. While personal use is allowed, it should be kept to a minimum and not interfere with lab work. The printers are not for large personal projects, including multi-day prints, at least without the lab director's consent.
+- **Maintenance**: If you're carrying out a long print, you're responsible for monitoring the print and ensuring that the printer is in good condition and that the print is not causing any damage. If you're unsure about anything, ask for help.
+- **Scheduling**: While there is (currently) no formal scheduling system, it is good practice to inform your colleagues if you plan to use the printer for a long print so they can plan accordingly.
 
 ## Lab space
 
