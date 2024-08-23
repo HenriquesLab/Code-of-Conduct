@@ -57,7 +57,7 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 - **Authorship**: Author roles and expectations are discussed early on in the project and ultimately decided by the laboratory director in consultation with other authors. This is often an ongoing conversation throughout the project, as roles and contributions may change over time.
 - **Contributions**: All authors are expected to contribute significantly to the project. This includes conception, design, development of functionality, data acquisition, analysis and interpretation, and drafting and revising the manuscripts. These contributions are done with prior discussion and agreement of the lab director.
 - **Acknowledgements**: Lab members should acknowledge the contributions of all collaborators and funding agencies in their publications.
-- **Independent work**: Lab members may publish independent work that was not generated in the context of the lab, but such research or work should be disclosed to the lab director beforehand. In this case, they should not use the lab's or IGC's affiliation in their publications unless agreed with the lab director. This work should be clearly distinguished from work generated in the context of the lab, not use laboratory resources (e.g. equipment including computers, reagents, software, funding, etc.), and not be based on data generated in the context of the lab. The laboratory takes no responsibility for the content of such publications, incurred costs or related ethical issues that may arise.
+- **Independent work**: Lab members may publish independent work that was not generated in the context of the lab, but such research or work should be disclosed to the lab director beforehand. In this case, they should not use the lab's or ITQB/IGC's affiliation in their publications unless agreed with the lab director. This work should be clearly distinguished from work generated in the context of the lab, not use laboratory resources (e.g. equipment including computers, reagents, software, funding, etc.), and not be based on data generated in the context of the lab. The laboratory takes no responsibility for the content of such publications, incurred costs or related ethical issues that may arise.
 
 ## Intellectual property
 
@@ -74,7 +74,7 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 
 - **Safety**: Lab members should adhere to safety protocols and guidelines to ensure a safe working environment for themselves and others. They should report any safety concerns or incidents to the lab director or appropriate personnel.
 - **Guidelines**: Lab members should ensure that they follow all safety guidelines and procedures. They should also ensure that they use the equipment safely and responsibly and that they maintain it in good condition. Lab members should not share their equipment with anyone without the lab director's prior consent.
-- **Training**: Lab members should complete all required safety training in line with the rules at IGC and ensure that they are familiar with the lab's safety guidelines and procedures.
+- **Training**: Lab members should complete all required safety training in line with the rules at ITQB/IGC and ensure that they are familiar with the lab's safety guidelines and procedures.
 
 ## Equipment
 
