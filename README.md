@@ -1,6 +1,6 @@
 # Code-of-Conduct
 
-The following document outlines the code of conduct for the [Optical Cell Biology Laboratory](https://henriqueslab.github.io/) also known as HenriquesLab. We value the participation of every member of our group and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the IGC policies for your level of employment or study.
+The following document outlines the code of conduct for the [Optical Cell Biology Laboratory](https://henriqueslab.org/) also known as HenriquesLab. We value the participation of every member of our group and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the ITQB/IGC policies for your level of employment or study.
 
 _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be respectful of others' time and effort. Be open to feedback and criticism. Be honest and transparent. Be considerate of others' needs. Be aware of your online presence. Be safe. Keep it clean and organized. Be a team player.
 
@@ -14,6 +14,7 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 
 - **Attendance**: Lab members should attend the laboratory during core hours (10am-4pm), unless otherwise agreed with the lab director. The laboratory promotes flexibility when arriving and leaving the laboratory outside of these hours.
 - **Working from home**: Working from home is welcomed for tasks that require concentration and/or are not easily done in the lab. Core hours still apply, and you must be reachable remotely. Ensure that your experimental work and participation in lab events are unaffected. Lab members should inform the lab director in advance if they plan to work from home.
+- **Abuse**: Working from home should not be used as an excuse to avoid work or to avoid attending lab meetings. Lab members should not work from home for extended periods without a valid reason. The expectation is that working from home is transient and not a permanent arrangement.
 - **Absence**: When working from home or on vacation, lab members should update the lab calendar accordingly.
 - **Vacations**: Lab members should follow the guidelines in their contract/fellowship and avoid taking time off during crucial deadlines, especially if their colleagues depend on them.
 - **Flexibility**: In case of personal or professional obligations, members should inform the lab director in advance and make arrangements to ensure the continuity of their work.
