@@ -1,8 +1,10 @@
 # Code-of-Conduct
 
-The following document outlines the code of conduct for the [AI-driven Optical Biology laboratory](https://henriqueslab.org/) also known as HenriquesLab. We value the participation of every member of our group and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the ITQB/IGC policies for your level of employment or study.
+The following document outlines the code of conduct for the [AI-driven Optical Biology laboratory](https://henriqueslab.org/) also known as HenriquesLab. We value the participation of every member of our group and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the ITQB NOVA policies for your level of employment or study.
 
 _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be respectful of others' time and effort. Be open to feedback and criticism. Be honest and transparent. Be considerate of others' needs. Be aware of your online presence. Be safe. Keep it clean and organized. Be a team player.
+
+_**Noncompliance:**__ failure to comply will result in the loss of part, if not all, of your laboratory privileges. In severe cases, it may result in termination of your association with the laboratory.
 
 ## Interaction with colleagues
 
@@ -22,7 +24,7 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 - **Sick Leave**: In case of illness, lab members should inform the lab director as soon as possible and provide a medical certificate if required. They should also update the lab calendar to reflect their absence.
 - **Personal Leave**: For personal matters requiring time off, lab members should discuss their needs with the lab director in advance. This includes family emergencies, medical appointments, or other personal obligations.
 - **Parental Leave**: Lab members are entitled to parental leave as per Portuguese labor law. They should inform the lab director well in advance to make necessary arrangements for their absence.
-- **Recording Leave**: All types of leave should be recorded in the lab calendar and internal "away" form (contact the lab director for access) to ensure transparency and proper planning. Lab members should update the calendar promptly and keep it accurate.
+- **Recording Leave**: All types of leave should be communicated by email, recorded in the lab calendar and internal "away" form (contact the lab director for access) to ensure transparency and proper planning. Lab members should update the calendar promptly and keep it accurate.
 
 ## Participation in lab activities
 
