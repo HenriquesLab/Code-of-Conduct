@@ -4,7 +4,7 @@ The following document outlines the code of conduct for the [AI-driven Optical B
 
 _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be respectful of others' time and effort. Be open to feedback and criticism. Be honest and transparent. Be considerate of others' needs. Be aware of your online presence. Be safe. Keep it clean and organized. Be a team player.
 
-_**Noncompliance:**__ failure to comply will result in the loss of part, if not all, of your laboratory privileges. In severe cases, it may result in termination of your association with the laboratory.
+_**Noncompliance:**_ failure to comply will result in the loss of part, if not all, of your laboratory privileges. In severe cases, it may result in termination of your association with the laboratory.
 
 ## Interaction with colleagues
 
