@@ -20,7 +20,7 @@ _**Noncompliance:**_ failure to comply will result in the loss of part, if not a
 
 ## Vacation and Time Off
 
-- **Vacation**: Lab members should take their vacation days in accordance with their contract or fellowship. They should inform the lab director in advance and make arrangements to ensure the continuity of their work. According to Portuguese labor law, lab members are entitled to 22 days of paid vacation per year, excluding public holidays. At least 10 working days must be taken consecutively.
+- **Vacation**: Lab members should take their vacation days in accordance with their contract or fellowship. They should inform the lab director in advance and make arrangements to ensure the continuity of their work. According to Portuguese labor law, lab members are entitled to 22 days of paid vacation per year, excluding public holidays. At least 10 working days must be taken consecutively. Beyond this, extra vacations are subject to the lab director's formal written agreement.
 - **Sick Leave**: In case of illness, lab members should inform the lab director as soon as possible and provide a medical certificate if required. They should also update the lab calendar to reflect their absence.
 - **Personal Leave**: For personal matters requiring time off, lab members should discuss their needs with the lab director in advance. This includes family emergencies, medical appointments, or other personal obligations.
 - **Parental Leave**: Lab members are entitled to parental leave as per Portuguese labor law. They should inform the lab director well in advance to make necessary arrangements for their absence.
