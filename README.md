@@ -1,6 +1,6 @@
 # Code-of-Conduct
 
-The following document outlines the code of conduct for the [Optical Cell Biology Laboratory](https://henriqueslab.org/) also known as HenriquesLab. We value the participation of every member of our group and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the ITQB/IGC policies for your level of employment or study.
+The following document outlines the code of conduct for the [AI-driven Optical Biology laboratory](https://henriqueslab.org/) also known as HenriquesLab. We value the participation of every member of our group and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the laboratory are expected to show respect and courtesy to others at all times. Please note that this code of conduct is not a legal document, supplementing, but not superseding, the ITQB/IGC policies for your level of employment or study.
 
 _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be respectful of others' time and effort. Be open to feedback and criticism. Be honest and transparent. Be considerate of others' needs. Be aware of your online presence. Be safe. Keep it clean and organized. Be a team player.
 
@@ -13,11 +13,16 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 ## Core hours
 
 - **Attendance**: Lab members should attend the laboratory during core hours (10am-4pm), unless otherwise agreed with the lab director. The laboratory promotes flexibility when arriving and leaving the laboratory outside of these hours.
-- **Working from home**: Working from home is welcomed for tasks that require concentration and/or are not easily done in the lab. Core hours still apply, and you must be reachable remotely. Ensure that your experimental work and participation in lab events are unaffected. Lab members should inform the lab director in advance if they plan to work from home.
+- **Working from home**: Working from home is welcomed for tasks that require concentration and/or are not easily done in the lab. Core hours still apply, and you must be reachable remotely. Ensure that your experimental work and participation in lab events are unaffected. Lab members should inform the lab director in advance if they plan to work from home, update the lab calendar, "away" form (contact the lab director for access) and be available for online meetings.
 - **Abuse**: Working from home should not be used as an excuse to avoid work or to avoid attending lab meetings. Lab members should not work from home for extended periods without a valid reason. The expectation is that working from home is transient and not a permanent arrangement.
-- **Absence**: When working from home or on vacation, lab members should update the lab calendar accordingly.
-- **Vacations**: Lab members should follow the guidelines in their contract/fellowship and avoid taking time off during crucial deadlines, especially if their colleagues depend on them.
-- **Flexibility**: In case of personal or professional obligations, members should inform the lab director in advance and make arrangements to ensure the continuity of their work.
+
+## Vacation and Time Off
+
+- **Vacation**: Lab members should take their vacation days in accordance with their contract or fellowship. They should inform the lab director in advance and make arrangements to ensure the continuity of their work. According to Portuguese labor law, lab members are entitled to 22 days of paid vacation per year, excluding public holidays. At least 10 working days must be taken consecutively.
+- **Sick Leave**: In case of illness, lab members should inform the lab director as soon as possible and provide a medical certificate if required. They should also update the lab calendar to reflect their absence.
+- **Personal Leave**: For personal matters requiring time off, lab members should discuss their needs with the lab director in advance. This includes family emergencies, medical appointments, or other personal obligations.
+- **Parental Leave**: Lab members are entitled to parental leave as per Portuguese labor law. They should inform the lab director well in advance to make necessary arrangements for their absence.
+- **Recording Leave**: All types of leave should be recorded in the lab calendar and internal "away" form (contact the lab director for access) to ensure transparency and proper planning. Lab members should update the calendar promptly and keep it accurate.
 
 ## Participation in lab activities
 
@@ -52,6 +57,13 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 - **Verbal**: As much as possible, oral communications including talks and poster presentations should be trained with colleagues and supervisors before the event.
 - **After working hours**: While communication may be initiated after working hours, lab members should not expect a response before the next working day.
 
+## Taking Responsibility and Professional Conduct
+
+- **Personal Accountability**: Lab members must take full responsibility for their actions, decisions, and their consequences, especially when acting independently without prior consultation with the lab director. This includes both scientific work and professional conduct.
+- **Laboratory Representation**: The laboratory's name, reputation, and resources must be used responsibly and ethically. Members are prohibited from using the lab's identity for personal gain, promoting personal projects without authorization, misrepresenting the lab's work or stance on scientific matters, and using laboratory resources for unauthorized activities.
+- **Scientific Attribution**: Professional attribution and affiliation must be handled with integrity. Laboratory affiliation in publications requires explicit approval from the lab director. Presentations and public communications must accurately reflect the lab's involvement. External collaborations should be transparent and approved beforehand.
+- **Professional Development**: Members should take initiative in their professional growth while maintaining laboratory standards. They should seek guidance when uncertain about decisions that may impact the lab, document and communicate significant decisions affecting research, and maintain professional boundaries between personal and laboratory work.
+
 ## Publishing scientific research (papers, preprints, posters, etc.)
 
 - **Authorship**: Author roles and expectations are discussed early on in the project and ultimately decided by the laboratory director in consultation with other authors. This is often an ongoing conversation throughout the project, as roles and contributions may change over time.
@@ -80,7 +92,6 @@ _**TL;DR:**_ Be nice. Ensure you properly cite and attribute others' work. Be re
 
 - **Maintenance**: Lab members should ensure that they use the equipment safely and responsibly and that they maintain it in good condition. Lab members should ensure they clean up after use and return equipment to its original location.
 - **Scheduling**: Lab members should ensure that they schedule the use of equipment in advance and that they do not use equipment that is already booked. For lab-specific equipment, an informal schedule can be set via google calendar as long as there is no other channel dedicated to it (e.g., lab book).
-
 
 ## 3D printing
 
