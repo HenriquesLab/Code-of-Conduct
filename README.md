@@ -109,3 +109,8 @@ _**Noncompliance:**_ failure to comply will result in the loss of part, if not a
 - **Sharing optics space**: If lab members need to run sensitive experiments in spaces that may be disturbed by other lab members (e.g. optical lab), they should inform all possible users of the space beforehand to avoid conflicts.
 - **Online meetings in shared lab spaces**: Lab members should avoid having online meetings requiring dialogue in spaces shared with other researchers where the noise of the meeting may disturb other researchers. The lab director is happy to share or vacate his office for such meetings.
 
+## External Collaboration and Support Requests
+- **Requests**: We welcome collaborations but must protect lab members' time for core research and funding. As a rule of thumb, any request exceeding two hours is discussed with the lab director. For extended support, a formal collaboration agreement is established to ensure proper recognition.
+- **Communication**: CC the lab director when communicating with external researchers to keep priorities aligned and contributions recognized.
+- **Screening**: Requests requiring more than two hours are reviewed to ensure they match the lab’s research interests and expertise. 
+- **Individual vs. Community Training**: Preference is given to broader solutions (courses, workshops) over individual assistance unless it aligns with the lab’s scope and capacity.
