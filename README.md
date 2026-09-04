@@ -77,27 +77,23 @@ _**Noncompliance:**_ failure to comply will result in the loss of part, if not a
 ## Publishing scientific research (papers, preprints, posters, etc.)
 
 - **Authorship**: Author roles and expectations are discussed early on in the project and ultimately decided by the laboratory director in consultation with other authors. This is often an ongoing conversation throughout the project, as roles and contributions may change over time.
-
-### Last corresponding authorship
-
-Last corresponding authorship is a project-lead designation. It is **not a right, entitlement, or automatic consequence** of seniority, employment status, code ownership, funding, or technical contribution.
-
-A researcher may request a discussion with the PI about last corresponding authorship only when **all** conditions below are met. Eligibility permits discussion. It does not guarantee the position. The PI makes the final decision after reviewing the documented contributions and any competing claims.
-
-The researcher must:
-
-1. Meet the authorship standard by making a substantial intellectual contribution, contributing to the manuscript, approving the final version, and accepting responsibility for the work.
-2. Be the documented primary originator of the project's central scientific or technical aim.
-3. Have secured or co-secured an external award as PI, co-PI, or named co-applicant. The award must directly fund the project or a defined project component. Personal fellowships, generic salary support, unrelated lab funding, and pending applications do not count.
-4. Show that the project's essential personnel time and project-specific costs do not depend primarily on another major active laboratory award. Shared institutional infrastructure and routine laboratory support may be used.
-5. Have completed at least four continuous years in the laboratory by the date of manuscript submission.
-6. Lead a project that advances a named major research stream of the laboratory and has a defined role in the laboratory roadmap. A detached personal side project does not qualify.
-7. The project must have a clearly defined scope. No other researcher may already be the recognised lead for the same project, platform, research question, or deliverable. If the project overlaps with an existing laboratory research stream, the PI and all affected researchers must agree in writing on the scope, leadership, and author order before manuscript preparation begins. An unresolved overlap or competing authorship claim makes the researcher ineligible for last corresponding authorship.
-8. Lead the manuscript, submission, revisions, contribution statement, and post-publication responsibility for the code, documentation, reproducibility, and responses to technical or scientific questions.
-
 - **Contributions**: All authors are expected to contribute significantly to the project. This includes conception, design, development of functionality, data acquisition, analysis and interpretation, and drafting and revising the manuscripts. These contributions are made with prior discussion and agreement of the lab director.
 - **Acknowledgements**: Lab members should acknowledge the contributions of all collaborators and funding agencies in their publications.
 - **Independent work**: Lab members may publish independent work that was not generated in the context of the lab, but such research or work should be disclosed to the lab director beforehand. In this case, they should not use the lab's or ITQB/IGC's affiliation in their publications unless agreed with the lab director. This work should be clearly distinguished from work generated in the context of the lab, not use laboratory resources (e.g. equipment including computers, reagents, software, funding, etc.), and not be based on data generated in the context of the lab. The laboratory takes no responsibility for the content of such publications, incurred costs or related ethical issues that may arise.
+
+### Last corresponding authorship
+
+Last corresponding authorship is a project-lead designation. It is **not a right, entitlement, or automatic consequence** of seniority, employment status, code ownership, funding, or technical contribution. A researcher may request a discussion with the PI about last corresponding authorship only when **all** conditions below are met. Eligibility permits discussion. It does not guarantee the position. The PI makes the final decision after reviewing the documented contributions and any competing claims.
+
+The researcher must meet all of the following criteria:
+- Meet the authorship standard by making a substantial intellectual contribution, contributing to the manuscript, approving the final version, and accepting responsibility for the work.
+- Be the documented primary originator of the project's central scientific or technical aim.
+- Have secured or co-secured an external award as PI, co-PI, or named co-applicant. The award must directly fund the project or a defined project component. Personal fellowships, generic salary support, unrelated lab funding, and pending applications do not count.
+- Show that the project's essential personnel time and project-specific costs do not depend primarily on another major active laboratory award. Shared institutional infrastructure and routine laboratory support may be used.
+- Have completed at least four continuous years in the laboratory by the date of manuscript submission.
+- Lead a project that advances a named major research stream of the laboratory and has a defined role in the laboratory roadmap. A detached personal side project does not qualify.
+- The project must have a clearly defined scope. No other researcher may already be the recognised lead for the same project, platform, research question, or deliverable. If the project overlaps with an existing laboratory research stream, the PI and all affected researchers must agree in writing on the scope, leadership, and author order before manuscript preparation begins. An unresolved overlap or competing authorship claim makes the researcher ineligible for last corresponding authorship.
+- Lead the manuscript, submission, revisions, contribution statement, and post-publication responsibility for the code, documentation, reproducibility, and responses to technical or scientific questions.
 
 ## Intellectual property
 
